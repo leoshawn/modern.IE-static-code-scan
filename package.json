@@ -36,7 +36,7 @@
     "cssom": ">=0.2.5",
     "jsdom": "~0.2.19",
     "ya-csv": "~0.9.2",
-    "validator": "~0.4.22",
+    "validator": "~9.4.1",
     "http-agent": ">=0.1.2",
     "hyperquest": "~0.1.4"
   },
